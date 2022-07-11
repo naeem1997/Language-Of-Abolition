@@ -4,7 +4,7 @@
 
 # [OUR WEBSITE](https://cometsagainstslave.wixsite.com/temoc)
 
-This was a project done for my Digital Humanities class. My team and I wanted to study how the nature of discourse within Civil War-era abolitionist publications compares to that of modern day anti-human trafficking organizations. This exploratory research was accomplished using topic modeling, a statistical technique used in natural language processing. By using techniques of machine learning to graph topics over time, we hoped to find trends that would lead to novel avenues of historical inquiry.
+My team and I wanted to study how the nature of discourse within Civil War-era abolitionist publications compares to that of modern day anti-human trafficking organizations. This exploratory research was accomplished using topic modeling, a statistical technique used in natural language processing. By using techniques of machine learning to graph topics over time, we hoped to find trends that would lead to novel avenues of historical inquiry.
 
 ## Data and Methodology
 
@@ -14,7 +14,7 @@ I systematically extracted a sample of issues from each digitized publication. T
 
 ## Special Thanks
 
-I would like to thank our Digital Humanities professor Dr. Ben Wright for his advice, direction, and support throughout this project.
+I would like to thank Dr. Ben Wright for his advice, direction, and support throughout this project.
 
 I'd also like to thank you, the reader, for approaching our project with a critical yet understanding eye. We're certainly proud of the work I've done; however, I recognize its technical (and mathematical) shortcomings. I hope this project will act as an inspirational catalyst for even more rigorous analysis of this topic.
 
